@@ -1,0 +1,31 @@
+.k_color{
+    /* color:#bdc1c5; */
+    color:#bdc1c5;
+}
+input#formBasicEmail{
+    color:#737577!important;
+}
+.k_fontSize{
+    font-size: 14px;
+}
+.k_fontfamily{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.form-control{
+    display: inline-block !important;
+}
+
+.text_color{
+    color: #636364 !important;
+}
+
+.bg_color{
+    background-color: #343435 !important;
+
+}
+
+@media only screen and (min-width: 600px) {
+    .k_register{
+        width: 40% !important;
+    }
+}
